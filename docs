@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=Hln37dE19bs
+
+expo init
+
+blank Typescript - opcja projektu do utworzenia
+
+
+
+
+- cd my-app
+- yarn start # you can open iOS, Android, or web from here, or run them directly with the commands below.
+- yarn android
+- yarn ios
+- yarn web
+
+
+
