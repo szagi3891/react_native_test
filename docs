@@ -14,4 +14,20 @@ blank Typescript - opcja projektu do utworzenia
 - yarn web
 
 
+yarn add @react-navigation/native
+
+
+
+yarn add react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+
+
+https://reactnavigation.org/docs/upgrading-from-4.x#package-names
+
+
+yarn add @react-navigation/native @react-navigation/stack @react-navigation/bottom-tabs @react-navigation/material-top-tabs @react-navigation/material-bottom-tabs @react-navigation/drawer
+
+
+
+zeby włączyć podpowiadanie (bo akurat jest w stanie ze nie podpowiada), trzeba wcisnac ctrl + space
 
